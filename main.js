@@ -225,111 +225,111 @@
     {
         number: 21,
         question: "What does vertical analysis of a financial statement involve?",
-        answer: "b) Expressing each line item as a percentage of a base amount",
+        answer: "Expressing each line item as a percentage of a base amount",
         options: [
-            "a) Comparing financial statements over multiple years",
-            "b) Expressing each line item as a percentage of a base amount",
-            "c) Analyzing the proportion of each expense category to total expenses",
-            "d) Calculating the change in values over consecutive periods"
+            "Comparing financial statements over multiple years",
+            "Expressing each line item as a percentage of a base amount",
+            "Analyzing the proportion of each expense category to total expenses",
+            "Calculating the change in values over consecutive periods"
         ]
     },
     {
         number: 22,
         question: "In vertical analysis, if the total revenue is considered the base, how would expenses be expressed as a percentage?",
-        answer: "d) As a percentage of total revenue",
+        answer: "As a percentage of total revenue",
         options: [
-            "a) As a percentage of total assets",
-            "b) As a percentage of total liabilities",
-            "c) As a percentage of total equity",
-            "d) As a percentage of total revenue"
+            "As a percentage of total assets",
+            "As a percentage of total liabilities",
+            "As a percentage of total equity",
+            "As a percentage of total revenue"
         ]
     },
     {
         number: 23,
         question: "What is the primary purpose of horizontal analysis in financial statement evaluation?",
-        answer: "c) Evaluating the percentage change in values over consecutive periods",
+        answer: "Evaluating the percentage change in values over consecutive periods",
         options: [
-            "a) Assessing the proportion of each expense category",
-            "b) Comparing financial statements across different companies",
-            "c) Evaluating the percentage change in values over consecutive periods",
-            "d) Analyzing the proportion of each revenue category"
+            "Assessing the proportion of each expense category",
+            "Comparing financial statements across different companies",
+            "Evaluating the percentage change in values over consecutive periods",
+            "Analyzing the proportion of each revenue category"
         ]
     },
     {
         number: 24,
         question: "How is the percentage change calculated in horizontal analysis?",
-        answer: "a) (Ending Value - Beginning Value) / Beginning Value",
+        answer: "(Ending Value - Beginning Value) / Beginning Value",
         options: [
-            "a) (Ending Value - Beginning Value) / Beginning Value",
-            "b) (Ending Value + Beginning Value) / Beginning Value",
-            "c) (Ending Value - Beginning Value) / Ending Value",
-            "d) (Ending Value + Beginning Value) / Ending Value"
+            "(Ending Value - Beginning Value) / Beginning Value",
+            "(Ending Value + Beginning Value) / Beginning Value",
+            "(Ending Value - Beginning Value) / Ending Value",
+            "(Ending Value + Beginning Value) / Ending Value"
         ]
     },
     {
         number: 25,
         question: "In horizontal analysis, if net income decreases from $50,000 to $40,000, what is the percentage decrease?",
-        answer: "b) 20%",
+        answer: "20%",
         options: [
-            "a) 10%",
-            "b) 20%",
-            "c) 25%",
-            "d) 50%"
+            "10%",
+            "20%",
+            "25%",
+            "50%"
         ]
     },
     {
         number: 26,
         question: "What does a positive percentage change in horizontal analysis indicate for an expense item?",
-        answer: "a) Increase in expense",
+        answer: "Increase in expense",
         options: [
-            "a) Increase in expense",
-            "b) Decrease in expense",
-            "c) No change in expense",
-            "d) Change in revenue"
+            "Increase in expense",
+            "Decrease in expense",
+            "No change in expense",
+            "Change in revenue"
         ]
     },
     {
         number: 27,
         question: "How is vertical analysis different from horizontal analysis?",
-        answer: "c) Vertical analysis assesses the proportion of each category to total, while horizontal analysis calculates the change in values.",
+        answer: "Vertical analysis assesses the proportion of each category to total, while horizontal analysis calculates the change in values.",
         options: [
-            "a) Vertical analysis compares different financial statements, while horizontal analysis focuses on a single statement.",
-            "b) Vertical analysis expresses each line item as a percentage, while horizontal analysis evaluates percentage changes over time.",
-            "c) Vertical analysis assesses the proportion of each category to total, while horizontal analysis calculates the change in values.",
-            "d) Vertical analysis is used for balance sheets, while horizontal analysis is used for income statements."
+            "Vertical analysis compares different financial statements, while horizontal analysis focuses on a single statement.",
+            "Vertical analysis expresses each line item as a percentage, while horizontal analysis evaluates percentage changes over time.",
+            "Vertical analysis assesses the proportion of each category to total, while horizontal analysis calculates the change in values.",
+            "Vertical analysis is used for balance sheets, while horizontal analysis is used for income statements."
         ]
     },
     {
         number: 28,
         question: "If the owner's equity is $80,000 in the current year and $70,000 in the previous year, what is the percentage change in owner's equity?",
-        answer: "a) 10%",
+        answer: "10%",
         options: [
-            "a) 10%",
-            "b) 15%",
-            "c) 12.5%",
-            "d) 14.29%"
+            "10%",
+            "15%",
+            "12.5%",
+            "14.29%"
         ]
     },
     {
         number: 29,
         question: "In vertical analysis, if total assets are considered the base, how are liabilities expressed as a percentage?",
-        answer: "a) As a percentage of total assets",
+        answer: "As a percentage of total assets",
         options: [
-            "a) As a percentage of total assets",
-            "b) As a percentage of total liabilities",
-            "c) As a percentage of total equity",
-            "d) As a percentage of total liabilities and equity"
+            "As a percentage of total assets",
+            "As a percentage of total liabilities",
+            "As a percentage of total equity",
+            "As a percentage of total liabilities and equity"
         ]
     },
     {
         number: 30,
         question: "What does a negative percentage change in horizontal analysis indicate for net income?",
-        answer: "b) Decrease in net income",
+        answer: "Decrease in net income",
         options: [
-            "a) Increase in net income",
-            "b) Decrease in net income",
-            "c) No change in net income",
-            "d) Change in revenue"
+            "Increase in net income",
+            "Decrease in net income",
+            "No change in net income",
+            "Change in revenue"
         ]
     },
 ];    
