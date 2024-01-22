@@ -88,6 +88,7 @@
       const timeLine = quizBox.querySelector("header .timeline")
       const timeOut = quizBox.querySelector(".timer .text")
       const body = document.getElementsByTagName("body")[0];
+      const userScoreDisplay = document.querySelector(".score-display .user-score");
  //
  //
  //           
@@ -347,6 +348,7 @@ nextBtn.style.display = "block";//shows next-button when option is clicked
                 let allOptions = optionList.children.length;
                 if (userAns == correctAns){
                 userScore += 1
+                userScoreDisplay.textContent = userScore;
                 answer.classList.add("correct")
                 //to show that question is correct
                 answer.insertAdjacentHTML("beforeend", tickIcon)
